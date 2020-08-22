@@ -1,2 +1,2 @@
 # django_first
-Student project (Django introdaction)
+Student project  (Django introdaction)
